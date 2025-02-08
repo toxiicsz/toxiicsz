@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu chamo Ruan Pablo e sou estudante <strong>BackEnd e FrontEnd</strong>.<br>
-  Estou cursando o 2º Ano do Ensino Médio, e pretendo me formar em T.I
+  Estou cursando o 3º Ano do Ensino Médio, e pretendo me formar em T.I
 </p>
 
 <p align="left">

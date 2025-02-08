@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  ⭐ Potifolio: https://toxicz.vercel.app
+  ⭐ Potifolio: https://toxicz.me
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript</strong>
+  🦄 Linguagens: <strong>Javascript e C#</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code</strong>
+  💼 Ferramentas: <strong>Visual Studio Code e Microsoft Studio 2024</strong>
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@
   <a href="mailto:ruann239@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-  <a href="https://discord.gg/AsbKr3qdva">
+  <a href="">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
